@@ -5,7 +5,6 @@
 #include "cross_correlation.hpp"
 
 // For brevity, we use the namespace from our library.
-using namespace cross_corr;
 using Matrix = std::vector<std::vector<float>>;
 
 int main() {
